@@ -817,6 +817,9 @@ header{
     }
 
 
+
+
+
     .grille-1{
     
         max-width: 600px;
@@ -825,7 +828,7 @@ header{
         overflow: hidden;
         width: 100%;
         margin-top: 30px;
-        padding-bottom: 20px;
+        padding-bottom: 100px;
 
     }
     
@@ -851,11 +854,6 @@ header{
         display: flex;
         float: right;
     }
-
-  
-
-
-
     
 
     /* COMPETENCES/PROJETS RESPONSIVE*/
@@ -986,7 +984,7 @@ header{
 
     }
     .projet-3{
-        background-image:url(/images/Casse-Brique.gif);
+        background-image:url(/images/portfoliogif.gif);
         background-size: 80%;
         max-width: 30%;
         background-position: 50% 5% ;
